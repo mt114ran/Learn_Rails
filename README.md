@@ -1,0 +1,2 @@
+# Learn_Rails
+Dockerを使用してRailsを学習するためのリポジトリ
